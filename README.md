@@ -19,6 +19,7 @@ A demonstration of:
 
 The medium varies.
 The material is intelligence.
+Sometimes sculpted at the byte level.
 
 ---
 
@@ -29,4 +30,3 @@ The material is intelligence.
 /thesis → Conceptual framing  
 
 Each artifact exists as both outcome and evidence of direction.
-
